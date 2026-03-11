@@ -17,7 +17,7 @@ const teamData = [
     {
         name: "Skylah Lu",
         role:"UX Designer",
-        image: "/images/Skylahlu.png",
+        image: "/images/Skylahlu.webp",
     },
     {
         name: "Griff Richars",
