@@ -2,32 +2,32 @@ const teamData = [
     {
         name: "Bill Mahoney",
         role: "Product Owner",
-        image: "/images/BillMahoney.png",
+        image: "/public/images/BillMahoney.png",
     },
     {
         name: "Saba Cabrera",
         role:"Art Director",
-        image: "/images/SabaCabrera.png",
+        image: "/public/images/SabaCabrera.png",
     },
     {
         name: "Shae Le",
         role:"Tech Lead",
-        image: "/images/ShaeLe.png",
+        image: "/public/images/ShaeLe.png",
     },
     {
         name: "Skylah Lu",
         role:"UX Designer",
-        image: "/images/Skylahlu.webp",
+        image: "/public/images/SkylahLu.webp",
     },
     {
         name: "Griff Richars",
         role:"Developer",
-        image: "/images/GriffRichards.png",
+        image: "/public/images/GriffRichards.png",
     },
     {
         name: "Stan John",
         role:"Developer",
-        image: "/images/StanJohn.png",
+        image: "/public/images/StanJohn.png",
     },
 ];
 
